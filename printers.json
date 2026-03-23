@@ -1,0 +1,39 @@
+{
+  "printers": [
+    {
+      "name": "BUH-PRT01",
+      "ip": "10.108.0.101",
+      "default": false
+    },
+    {
+      "name": "BUH-PRT02",
+      "ip": "10.108.0.102",
+      "default": false
+    },
+    {
+      "name": "BUH-PRT03",
+      "ip": "10.108.0.103",
+      "default": false
+    },
+    {
+      "name": "FIN-PRT06",
+      "ip": "10.108.0.106",
+      "default": false
+    },
+    {
+      "name": "UPR-PRT02",
+      "ip": "10.102.0.106",
+      "default": false
+    },
+    {
+      "name": "UPR-PRT01",
+      "ip": "10.102.0.101",
+      "default": false
+    },
+    {
+      "name": "UPR-PRT05",
+      "ip": "10.102.0.105",
+      "default": false
+    }
+  ]
+}
